@@ -9,3 +9,5 @@ node_modules/**
 *.csv
 *.conf
 *.html
+*.sublime-project
+*.sublime-workspace
